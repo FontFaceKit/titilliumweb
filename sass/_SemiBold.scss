@@ -1,0 +1,8 @@
+/* BEGIN SemiBold */
+@font-face {
+	font-family: TitilliumWeb;
+	@include fontdef($FontPath, $FontVersion, 'SemiBold');
+	font-weight: 600;
+	font-style: normal;
+}
+/* END SemiBold */

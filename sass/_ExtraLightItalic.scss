@@ -1,0 +1,8 @@
+/* BEGIN Extrabold Italic */
+@font-face {
+	font-family: TitilliumWeb;
+	@include fontdef($FontPath, $FontVersion, 'ExtraBoldItalic');
+	font-weight: 200;
+	font-style: italic;
+}
+/* END Extrabold Italic */
