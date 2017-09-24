@@ -16,7 +16,7 @@
 }
 
 /* END Bold */
-/* BEGIN Bold Italic */
+/* BEGIN BoldItalic */
 @font-face {
   font-family: TitilliumWeb;
   src: url("./fonts/BoldItalic/TitilliumWeb-BoldItalic.woff2?v=1.001") format("woff2"), url("./fonts/BoldItalic/TitilliumWeb-BoldItalic.woff?v=1.001") format("woff");
@@ -24,25 +24,25 @@
   font-style: italic;
 }
 
-/* END Bold Italic */
+/* END BoldItalic */
 /* BEGIN ExtraLight */
 @font-face {
   font-family: TitilliumWeb;
-  src: url("./fonts/ExtraBold/TitilliumWeb-ExtraBold.woff2?v=1.001") format("woff2"), url("./fonts/ExtraBold/TitilliumWeb-ExtraBold.woff?v=1.001") format("woff");
+  src: url("./fonts/ExtraLight/TitilliumWeb-ExtraLight.woff2?v=1.001") format("woff2"), url("./fonts/ExtraLight/TitilliumWeb-ExtraLight.woff?v=1.001") format("woff");
   font-weight: 200;
   font-style: normal;
 }
 
 /* END ExtraLight */
-/* BEGIN Extrabold Italic */
+/* BEGIN ExtraLightItalic */
 @font-face {
   font-family: TitilliumWeb;
-  src: url("./fonts/ExtraBoldItalic/TitilliumWeb-ExtraBoldItalic.woff2?v=1.001") format("woff2"), url("./fonts/ExtraBoldItalic/TitilliumWeb-ExtraBoldItalic.woff?v=1.001") format("woff");
+  src: url("./fonts/ExtraLightItalic/TitilliumWeb-ExtraLightItalic.woff2?v=1.001") format("woff2"), url("./fonts/ExtraLightItalic/TitilliumWeb-ExtraLightItalic.woff?v=1.001") format("woff");
   font-weight: 200;
   font-style: italic;
 }
 
-/* END Extrabold Italic */
+/* END ExtraLightItalic */
 /* BEGIN Italic */
 @font-face {
   font-family: TitilliumWeb;
@@ -61,7 +61,7 @@
 }
 
 /* END Light */
-/* BEGIN Light Italic */
+/* BEGIN LightItalic */
 @font-face {
   font-family: TitilliumWeb;
   src: url("./fonts/LightItalic/TitilliumWeb-LightItalic.woff2?v=1.001") format("woff2"), url("./fonts/LightItalic/TitilliumWeb-LightItalic.woff?v=1.001") format("woff");
@@ -69,7 +69,7 @@
   font-style: italic;
 }
 
-/* END Light Italic */
+/* END LightItalic */
 /* BEGIN Regular */
 @font-face {
   font-family: TitilliumWeb;
