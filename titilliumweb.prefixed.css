@@ -9,7 +9,7 @@
 /* END Black */
 /* BEGIN Bold */
 @font-face {
-  font-family: 'Open Sans';
+  font-family: TitilliumWeb;
   src: url("./fonts/Bold/TitilliumWeb-Bold.woff2?v=1.001") format("woff2"), url("./fonts/Bold/TitilliumWeb-Bold.woff?v=1.001") format("woff");
   font-weight: 700;
   font-style: normal;
