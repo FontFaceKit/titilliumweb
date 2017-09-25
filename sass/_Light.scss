@@ -1,7 +1,7 @@
 /* BEGIN Light */
 @font-face {
 	font-family: TitilliumWeb;
-	@include fontdef($FontPath, $FontVersion, 'Light');
+	@include fontdef($FontPath, $FontVersion, "Light");
 	font-weight: 300;
 	font-style: normal;
 }

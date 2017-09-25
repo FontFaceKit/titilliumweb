@@ -1,7 +1,7 @@
 /* BEGIN Italic */
 @font-face {
 	font-family: TitilliumWeb;
-	@include fontdef($FontPath, $FontVersion, 'Italic');
+	@include fontdef($FontPath, $FontVersion, "Italic");
 	font-weight: 400;
 	font-style: italic;
 }

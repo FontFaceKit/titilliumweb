@@ -1,7 +1,7 @@
 /* BEGIN SemiBoldItalic */
 @font-face {
 	font-family: TitilliumWeb;
-	@include fontdef($FontPath, $FontVersion, 'SemiBoldItalic');
+	@include fontdef($FontPath, $FontVersion, "SemiBoldItalic");
 	font-weight: 600;
 	font-style: italic;
 }

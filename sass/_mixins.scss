@@ -1,4 +1,4 @@
-@mixin fontdef($FontPath, $FontVersion, $FontType:'Regular') {
-	src: url('#{$FontPath}/#{$FontType}/TitilliumWeb-#{$FontType}.woff2?v=#{$FontVersion}') format('woff2'),
-		url('#{$FontPath}/#{$FontType}/TitilliumWeb-#{$FontType}.woff?v=#{$FontVersion}') format('woff');
+@mixin fontdef($FontPath, $FontVersion, $FontType:"Regular") {
+	src: url("#{$FontPath}/#{$FontType}/TitilliumWeb-#{$FontType}.woff2?v=#{$FontVersion}") format("woff2"),
+		url("#{$FontPath}/#{$FontType}/TitilliumWeb-#{$FontType}.woff?v=#{$FontVersion}") format("woff");
 }

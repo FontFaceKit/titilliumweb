@@ -1,7 +1,7 @@
 /* BEGIN Black */
 @font-face {
 	font-family: TitilliumWeb;
-	@include fontdef($FontPath, $FontVersion, 'Black');
+	@include fontdef($FontPath, $FontVersion, "Black");
 	font-weight: 900;
 	font-style: normal;
 }
